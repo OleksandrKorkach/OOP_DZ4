@@ -28,9 +28,9 @@ public class Team
     public void ShowDetailedInfo()
     {
         Console.WriteLine("Team: " + name);
-        foreach (Worker worker in workers)
+        foreach (var worker in workers)
         {
-            Console.WriteLine(worker.Name + " - " + worker.Position);
+            Console.WriteLine(worker.Name + " - " + worker.Position + "\nWorkDay: \n " + worker.WorkDay);
         }
     }
 }

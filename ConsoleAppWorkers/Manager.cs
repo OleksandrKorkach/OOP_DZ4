@@ -6,7 +6,7 @@ public class Manager : Worker
     
     private void CallNTimes(int times)
     {
-        for (int j = 0; j < times; j++)
+        for (var j = 0; j < times; j++)
         {
             Call();
         }

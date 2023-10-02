@@ -1,6 +1,6 @@
 namespace ConsoleAppGeographyInterface;
 
-public interface GeographyObject
+public interface IGeographyObject
 {
     public void PrintInfo();
 }

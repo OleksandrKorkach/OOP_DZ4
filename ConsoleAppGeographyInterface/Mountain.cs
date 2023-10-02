@@ -1,6 +1,6 @@
 namespace ConsoleAppGeographyInterface;
 
-public class Mountain : GeographyObject
+public class Mountain : IGeographyObject
 {
     private int _x;
     private int _y;
