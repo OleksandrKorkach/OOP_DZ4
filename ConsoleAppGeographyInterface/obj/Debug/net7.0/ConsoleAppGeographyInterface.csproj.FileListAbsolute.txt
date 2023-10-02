@@ -1,0 +1,14 @@
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\bin\Debug\net7.0\ConsoleAppGeographyInterface.exe
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\bin\Debug\net7.0\ConsoleAppGeographyInterface.deps.json
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\bin\Debug\net7.0\ConsoleAppGeographyInterface.runtimeconfig.json
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\bin\Debug\net7.0\ConsoleAppGeographyInterface.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\bin\Debug\net7.0\ConsoleAppGeographyInterface.pdb
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ConsoleAppGeographyInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ConsoleAppGeographyInterface.AssemblyInfoInputs.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ConsoleAppGeographyInterface.AssemblyInfo.cs
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ConsoleAppGeographyInterface.csproj.CoreCompileInputs.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ConsoleAppGeographyInterface.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\refint\ConsoleAppGeographyInterface.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ConsoleAppGeographyInterface.pdb
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ConsoleAppGeographyInterface.genruntimeconfig.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppGeographyInterface\obj\Debug\net7.0\ref\ConsoleAppGeographyInterface.dll

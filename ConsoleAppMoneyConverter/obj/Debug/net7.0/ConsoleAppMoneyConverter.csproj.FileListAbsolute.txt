@@ -1,0 +1,14 @@
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\bin\Debug\net7.0\ConsoleAppMoneyConverter.exe
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\bin\Debug\net7.0\ConsoleAppMoneyConverter.deps.json
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\bin\Debug\net7.0\ConsoleAppMoneyConverter.runtimeconfig.json
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\bin\Debug\net7.0\ConsoleAppMoneyConverter.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\bin\Debug\net7.0\ConsoleAppMoneyConverter.pdb
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ConsoleAppMoneyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ConsoleAppMoneyConverter.AssemblyInfoInputs.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ConsoleAppMoneyConverter.AssemblyInfo.cs
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ConsoleAppMoneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ConsoleAppMoneyConverter.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\refint\ConsoleAppMoneyConverter.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ConsoleAppMoneyConverter.pdb
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ConsoleAppMoneyConverter.genruntimeconfig.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppMoneyConverter\obj\Debug\net7.0\ref\ConsoleAppMoneyConverter.dll

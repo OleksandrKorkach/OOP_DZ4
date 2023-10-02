@@ -1,0 +1,14 @@
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\bin\Debug\net7.0\ConsoleAppWorkers.exe
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\bin\Debug\net7.0\ConsoleAppWorkers.deps.json
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\bin\Debug\net7.0\ConsoleAppWorkers.runtimeconfig.json
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\bin\Debug\net7.0\ConsoleAppWorkers.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\bin\Debug\net7.0\ConsoleAppWorkers.pdb
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ConsoleAppWorkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ConsoleAppWorkers.AssemblyInfoInputs.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ConsoleAppWorkers.AssemblyInfo.cs
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ConsoleAppWorkers.csproj.CoreCompileInputs.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ConsoleAppWorkers.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\refint\ConsoleAppWorkers.dll
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ConsoleAppWorkers.pdb
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ConsoleAppWorkers.genruntimeconfig.cache
+C:\Users\38066\RiderProjects\ConsoleApp1\ConsoleAppWorkers\obj\Debug\net7.0\ref\ConsoleAppWorkers.dll

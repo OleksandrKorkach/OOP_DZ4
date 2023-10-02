@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppWorkers", "ConsoleAppWorkers\ConsoleAppWorkers.csproj", "{64B629D8-B19C-4FF7-9EA4-11664522B1D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMoneyConverter", "ConsoleAppMoneyConverter\ConsoleAppMoneyConverter.csproj", "{A8098296-D002-4DBB-9D35-4D208EF29D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGeography", "ConsoleAppGeography\ConsoleAppGeography.csproj", "{8FCE3773-36A1-4FDF-88A1-CC7BB3B9DC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGeographyInterface", "ConsoleAppGeographyInterface\ConsoleAppGeographyInterface.csproj", "{6D6B1865-CAF2-4A85-AD31-A36E54545015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64B629D8-B19C-4FF7-9EA4-11664522B1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B629D8-B19C-4FF7-9EA4-11664522B1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B629D8-B19C-4FF7-9EA4-11664522B1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B629D8-B19C-4FF7-9EA4-11664522B1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8098296-D002-4DBB-9D35-4D208EF29D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8098296-D002-4DBB-9D35-4D208EF29D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8098296-D002-4DBB-9D35-4D208EF29D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8098296-D002-4DBB-9D35-4D208EF29D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCE3773-36A1-4FDF-88A1-CC7BB3B9DC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCE3773-36A1-4FDF-88A1-CC7BB3B9DC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCE3773-36A1-4FDF-88A1-CC7BB3B9DC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCE3773-36A1-4FDF-88A1-CC7BB3B9DC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6B1865-CAF2-4A85-AD31-A36E54545015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6B1865-CAF2-4A85-AD31-A36E54545015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6B1865-CAF2-4A85-AD31-A36E54545015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6B1865-CAF2-4A85-AD31-A36E54545015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
